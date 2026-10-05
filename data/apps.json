@@ -4,6 +4,15 @@
   "count": 29,
   "apps": [
     {
+      "name": "GreedyArt",
+      "url": "https://greedy.art/?c=idea015",
+      "description": "AI photo templates in Telegram: pick a ready style, upload a selfie and get portraits, avatars and sticker packs without writing prompts.",
+      "category": "Products",
+      "contributedBy": "greedyart",
+      "lastChecked": "2026-10-05",
+      "status": "ok"
+    },
+    {
       "name": "Arena Defense",
       "url": "https://t.me/arena_defense_bot/arena_defense",
       "description": "Idle auto-battler defense: build a party of 10 heroes, unleash screen-clearing skills, and hold the line across 10 chapters. Playable in EN/KO/RU/ZH.",
