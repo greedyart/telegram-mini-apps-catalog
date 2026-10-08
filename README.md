@@ -8,7 +8,7 @@ has been untouched.
 
 **Submissions get a decision within 7 days.** See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- **29 apps**, last verified **2026-09-14**
+- **29 apps**, last verified **2026-10-05**
 - **3** flagged as inactive — listed, but marked, not quietly left to rot
 - Machine-readable copy: [`data/apps.json`](data/apps.json)
 - Every entry records who contributed it and when it was last checked
@@ -28,7 +28,7 @@ has been untouched.
 - [BookClass](https://t.me/BookClassBot) - Class booking Mini App for studios, trainers, and instructors of any kind.
 - [Daily Tarot](https://t.me/thisisthedailytarotbot) - Daily tarot card pull with Mini App, Rider-Waite deck (public domain), 7 languages, Telegram Stars payments.
 - [DefyTON](https://t.me/DefyTONBot/app) - AI-verified habit challenges with GRAM staking and TON Connect integration.
-- [EventEdge](https://t.me/polym_lab_bot) - Backtest and paper-trade strategies on prediction markets (Polymarket, Manifold, Kalshi) with no code and no wallet connection.
+- [EventEdge](https://t.me/polym_lab_bot) - Backtest and paper-trade strategies on prediction markets (Polymarket, Manifold, Kalshi) with no code and no wallet connection.  ⚠️ *Telegram shows a placeholder page ('Telegram: Contact @polym_lab_bot') — the bot no longer exists*
 - [Gategram](https://gategram.app) - Sell digital content on Telegram with native Stars payments. Open-source, 95% creator earnings.
 - [Invoice Generator](https://t.me/freelance_inv_bot) - Create and send professional invoices to clients directly inside Telegram.
 - [Lexicon](https://t.me/lexicon_snap_bot?startapp=cat_awesome) - Flashcards for memorizing foreign words: own decks by language pair, auto-translate suggestions, streaks and reminders. Pixel-art UI, EN/RU/PT/ES/FR.
@@ -51,14 +51,14 @@ has been untouched.
 ## Open Source Projects
 
 - [Cosmic Bugs](https://github.com/keyfire/fresh-space-invaders) - A dependency-free, single-file HTML5 Canvas arcade shooter (Space Invaders style) with power-ups, bosses, and RU/EN/ES/PT/TR localization.
-- [CSUBOT](https://github.com/cjh0613/csubot) - Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans.  *(no commits in 15 months)*
+- [CSUBOT](https://github.com/cjh0613/csubot) - Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans.  *(no commits in 16 months)*
 - [MemoCard](https://github.com/kubk/memo-card) - Flashcard app for improving memory with spaced repetition.
 - [NobleTruths](https://github.com/MaximStone/eight-truths) - Habit daily journal for practitioners.  *(no commits in 19 months)*
 - [OpenFreeMap](https://github.com/asan-pf/tma-ofm-react-template) - Share and discover locations with telegram and OpenFreeMaps.
 
 ## Libraries & Templates
 
-- [Authentication using TMA using nestJS and NextJS](https://github.com/e3ob/Telegram-Mini-App-Auth) - Template for authentication in a Telegram Mini App using NestJS.  *(no commits in 16 months)*
+- [Authentication using TMA using nestJS and NextJS](https://github.com/e3ob/Telegram-Mini-App-Auth) - Template for authentication in a Telegram Mini App using NestJS.  *(no commits in 17 months)*
 - [twa-nextjs-monorepo-starter](https://github.com/eugeneshilow/twa-nextjs-monorepo-starter) - Starter template for Telegram Mini Apps using Next.js in a pnpm monorepo.
 - [Types for Telegram Web Apps (TWA) SDK](https://github.com/fullpipe/twa-sdk-types) - Types for Telegram Web Apps (TWA) SDK. Fast updates.
 
