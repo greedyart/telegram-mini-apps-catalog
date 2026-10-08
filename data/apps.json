@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-05",
       "status": "ok"
+    },
+    {
+      "name": "OmeTg",
+      "url": "https://t.me/OmeTgBot?startapp=promo_github",
+      "description": "Random one-on-one video chat inside Telegram: tap Start to talk face to face with a random adult (18+), chat over the video, send gifts, and skip to the next person.",
+      "category": "Products",
+      "contributedBy": "ituby",
+      "lastChecked": "2026-10-08",
+      "status": "ok"
     }
   ]
 }
